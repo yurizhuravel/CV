@@ -2,7 +2,7 @@
 
 I'm a junior software developer who at various points in life used to be a Formula One team member, BBC journalist and desk editor, multilingual video team lead, cameraman, photographer and editor, due diligence analyst, interpreter and translator, and, once, a head of international PR for a supercar startup. With a degree in international law.
 
-It took me quite a few rather enjoyable but not 100% satisfying years to realise that actually, instead of all that, I really want to write awesome test-driven code in an awesome environment of like-minded people. Make computers do cool stuff and have fun in the process. Solve puzzles for a living and learn something new every day. And maybe have a hammock in the office, if I'm lucky.
+It took me quite a few fast-paced and enjoyable but not 100% satisfying years to realise that actually, instead of all that, I really want to write awesome test-driven code in an awesome environment of like-minded people. Make computers do cool stuff and have fun in the process. Solve puzzles for a living and learn something new every day. And maybe have a hammock in the office, if I'm lucky.
 
 I take things seriously every time I make a life-changing decision and push myself out of the comfort zone. To upgrade my coding journey from merely putting stuff together in **Wordpress** or **HTML** with a sprinkle of **CSS**, **Javascript** and **Bootstrap**, I've enrolled into **Makers Academy**, a leading bootcamp in the business. From there, things escalated quickly, as illustrated by my commits history from June onwards.
 
@@ -14,7 +14,11 @@ I believe that overall approach and mindset might be more important in software 
 
 #### I absorb new tech quickly
 
-12 weeks at Makers taught me to learn new things at warp pace. I'd never believed this August that in September I'd be building a 3D game reacting to sound input with **Unity** (which I've never heard about before) and **C#**. Here it is. Earlier, It took our team a week to build an AirBnB logic model, complete with property and user databases, in unfamiliar **Node.js**, with **PostgreSQL** and **Knex**. Have a look. Learning to use basic **Rails** in three days was somewhat easier by comparison, and yielded a really nice result next project week: a tool to search user's GitHub repos for carelessly pushed Facebook secret keys. Check it out.
+12 weeks at Makers taught me to learn new things at warp pace. I'd never believed this August that in September I'd be building a 3D game reacting to sound input with **Unity** (which I've never heard about before) and **C#**. Here it is.
+
+Earlier, It took our team a week to build an AirBnB logic model, complete with property and user databases, in unfamiliar **Node.js**, with **PostgreSQL** and **Knex**. Have a look.
+
+Learning to use basic **Rails** in three days was somewhat easier by comparison, and yielded a really nice result next project week: a tool to search user's GitHub repos for carelessly pushed Facebook secret keys. Check it out.
 
 #### I pair-program
 
@@ -59,13 +63,13 @@ I'm just starting my professional coding journey and am looking for a junior pos
 ## Where I worked
 
 **BBC World Service (Russian)** (2000 to 2016 with breaks in between)    
-*Journalist/ Senior Producer / Video Lead*
+*Journalist / Senior Producer / Video Lead*
 
 **Celebro Media** (2014 to 2015)   
 *Head of News*
 
 **Marussia Motors/ Marussia Virgin Racing** (2011 to 2012)    
-*Head of International Communications/ F1 Team Liaison*  
+*Head of International Communications / F1 Team Liaison*  
 
 **Muz-TV (Moscow)** (1998 to 2000)   
 *Chief News Editor*
@@ -75,7 +79,11 @@ I'm just starting my professional coding journey and am looking for a junior pos
 
 ## Other tech that I know
 
-Filming video and stills with ENG cameras and SLRs, video editing with Adobe Premiere, Final Cut Pro X and Quantel QEdit, photo processing with Adobe Photoshop and Lightroom
+- Filming video and stills with ENG cameras and SLRs
+
+- Video editing with Adobe Premiere, Final Cut Pro X and Quantel QEdit
+
+- Photo processing with Adobe Photoshop and Lightroom
 
 #### Languages
 
