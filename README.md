@@ -18,7 +18,7 @@ I believe that overall approach and mindset might be more important in software 
 
 Earlier, It took our team a week to build an AirBnB logic model, complete with property and user databases, in unfamiliar **Node.js**, with **PostgreSQL** and **Knex**. Have a look.
 
-Learning to use basic **Rails** in three days was somewhat easier by comparison, and yielded a really nice result next project week: a tool to search user's GitHub repos for carelessly pushed Facebook secret keys. Check it out.
+Learning to use basic **Rails** in just a couple of days was somewhat easier by comparison, and yielded a really nice result: a tool to search user's GitHub repos for carelessly pushed Facebook secret keys. Check it out.
 
 #### I pair-program
 
