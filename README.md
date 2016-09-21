@@ -14,11 +14,11 @@ I believe that overall approach and mindset might be more important in software 
 
 #### I absorb new tech quickly
 
-12 weeks at Makers taught me to learn new things at warp pace. I'd never believed this August that in September I'd be building a 3D game reacting to sound input with **Unity** (which I've never heard about before) and **C#**. Here it is.
+12 weeks at Makers taught me to learn new things at warp pace. I'd never believed this August that in September I'd be building a 3D game reacting to sound input with **Unity** (which I've never heard about before) and **C#**.
 
-Earlier, It took our team a week to build an AirBnB logic model, complete with property and user databases, in unfamiliar **Node.js**, with **PostgreSQL** and **Knex**. Have a look.
+Earlier, It took our team a week to build an AirBnB logic model, complete with property and user databases, in unfamiliar **Node.js**, with **PostgreSQL** and **Knex**.
 
-Learning to use basic **Rails** in just a couple of days was somewhat easier by comparison, and yielded a really nice result: a tool to search user's GitHub repos for carelessly pushed Facebook secret keys. Check it out.
+Learning to use basic **Rails** in just a couple of days was somewhat easier by comparison, and yielded a really nice result: a tool to search user's GitHub repos for carelessly pushed Facebook secret keys.
 
 #### I pair-program
 
