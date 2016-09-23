@@ -14,7 +14,7 @@ I believe that overall approach and mindset might be more important in software 
 
 #### I absorb new tech quickly
 
-12 weeks at Makers taught me to learn new things at warp pace. I'd never believed this August that in September I'd be building a 3D game reacting to sound input with **Unity** (which I've never heard about before) and **C#**. [Here's the code](https://github.com/yurizhuravel/boomTune), downloadable app deployment currently in progress.
+12 weeks at Makers taught me to learn new things at warp pace. I'd never believed this August that in September I'd be building a 3D game reacting to sound input with **Unity** (which I've never heard about before) and **C#**. [Here's the code](https://github.com/yurizhuravel/audiodash), and [here's the playable online version code](http://www.newgrounds.com/portal/view/681537).
 
 Earlier, It took our team a week to build an AirBnB logic model, complete with property and user databases, in unfamiliar **Node.js**, with **PostgreSQL** and **Knex**. [Here it is](https://github.com/yurizhuravel/makers_bnb).
 
@@ -46,6 +46,14 @@ I'm just starting my professional coding journey and am looking for a junior pos
 - Ruby, Rails, Javascript, Node.js
 - Unity 3D with C# scripting
 - RSpec, Capybara, Jasmine, Mocha, Zombie, Unity Test Tools
+
+*Projects at Makers*:
+
+|  Project      | Description          | Technologies| Testing |
+| :-------------:|:-------------:|:-----:|:--:|
+| AudioDash   | A 3D game using Audio input to shape the gaming environment | Unity 3D, C#| NUnit, Unity Test Tools|
+| GitSnitch     | A search engine that finds Facebook secrets in GitHub repos. | Ruby on Rails, Octokit, OmniAuth | Rspec |
+| Tricolade     | Recreates basic AirBnB logic | Javascript, Node.js, Knex, PostgreSQL |Zombie , Mocha, Chai|
 
 #### Moscow State University for International Relations (1991 to 1998 - with a career development break)
 
