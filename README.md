@@ -1,5 +1,5 @@
 ## Yuri Zhuravel
-** A junior developer for hire**
+**A junior developer for hire**
 
 
 [What drives me](#intro) | [What I can do](#attributes) | [Where I studied](#education) | [Where I worked](#jobs) | [Other tech and languages](#extra)
