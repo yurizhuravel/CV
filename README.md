@@ -1,12 +1,16 @@
 ## Yuri Zhuravel
 
+[What drives me](#intro) | [What I can do](#attributes) | [Where I studied](#education) | [Where I worked](#jobs) | [Other tech and languages](#extra)
+
+### <a name="intro">What drives me</a>
+
 I'm a junior software developer who at various points in life used to be a Formula One team member, BBC journalist and desk editor, multilingual video team lead, cameraman, photographer and editor, due diligence analyst, interpreter and translator, and, once, a head of international PR for a supercar startup. With a degree in international law.
 
 It took me quite a few fast-paced and enjoyable but not 100% satisfying years to realise that actually, instead of all that, I really want to write awesome test-driven code in a friendly environment of like-minded people. Make computers do cool stuff and have fun in the process. Solve puzzles for a living and learn something new every day. And maybe have a hammock in the office, if I'm lucky.
 
 I take things seriously every time I make a life-changing decision and push myself out of the comfort zone. To upgrade my coding journey from merely putting stuff together in **Wordpress** or **HTML** with a sprinkle of **CSS**, **Javascript** and **Bootstrap**, I've enrolled into **Makers Academy**, a leading bootcamp in the business. From there, things escalated quickly, as illustrated by my commits history from June onwards.
 
-## What I can do
+### <a name="attributes">What I can do</a>
 
 #### I TDD
 
@@ -36,7 +40,7 @@ I've spent a good decade and a half in news, working in real time through scenar
 
 I'm just starting my professional coding journey and am looking for a junior position. However, I believe that my past experience of working in diverse multilingual teams, as well as leading them, might come in handy for any company that I join.
 
-## Where I studied
+### <a name="education">Where I studied</a>
 
 #### Makers Academy (June 2016 to September 2016)
 
@@ -68,7 +72,7 @@ I'm just starting my professional coding journey and am looking for a junior pos
 - Leadership
 - Recruitment: Fair Selection
 
-## Where I worked
+### <a name="jobs">Where I worked</a>
 
 **BBC World Service (Russian)** (2000 to 2016 with breaks in between)    
 *Journalist / Senior Producer / Video Lead*
@@ -85,7 +89,7 @@ I'm just starting my professional coding journey and am looking for a junior pos
 **UTV (Belfast)** (1995)   
 *PR executive*
 
-## Other tech that I know
+### <a name="extra">Other tech that I know</a>
 
 - Filming video and stills with ENG cameras and SLRs
 
