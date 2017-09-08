@@ -1,46 +1,98 @@
 ## Yuri Zhuravel
-**A junior developer for hire**
 
+** Software developer and devops journeyman ready for his next gig **
 
-[What drives me](#intro) | [What I can do](#attributes) | [Where I studied](#education) | [Where I worked](#jobs) | [Other tech and languages](#extra)
+yuri@zhuravel.co.uk | linkedin.com/in/yurizhuravel/
 
-### <a name="intro">What drives me</a>
+[TL;DR](#intro) | [What I can do](#attributes) | [Where I worked](#jobs) | [Where I studied](#education) | [Other tech and languages](#extra)
 
-I'm a junior software developer who at various points in life used to be a Formula One team member, BBC journalist and desk editor, multilingual video team lead, cameraman, photographer and editor, due diligence analyst, interpreter and translator, and, once, a head of international PR for a supercar startup. With a degree in international law.
+### <a name="intro">TL;DR</a>
 
-It took me quite a few fast-paced and enjoyable but not 100% satisfying years to realise that actually, instead of all that, I really want to write awesome test-driven code in a friendly environment of like-minded people. Make computers do cool stuff and have fun in the process. Solve puzzles for a living and learn something new every day. And maybe have a hammock in the office, if I'm lucky.
+I've just finished a challenging and satisfying stretch of work at HSBC, and I am ready to continue my professional coding career in a permanent or contractor role.
 
-I take things seriously every time I make a life-changing decision and push myself out of the comfort zone. To upgrade my coding journey from merely putting stuff together in **Wordpress** or **HTML** with a sprinkle of **CSS**, **Javascript** and **Bootstrap**, I've enrolled into **Makers Academy**, a leading bootcamp in the business. From there, things escalated quickly, as illustrated by my commits history from June onwards.
+During this latest engagement our team of six was tasked with delivering interoperability between an award-winning FX trading platform based on microservices and continuously deployed to production in the spirit of cutting-edge devops and agile principles, and a monolithic legacy corporate payments service with a quarterly release cycle.  
+
+I'm a career-changer who plunged into commercial coding rather late in life. Before that, I used to be a Formula One team member, BBC journalist and desk editor, multilingual video team lead, cameraman, photographer and editor, due diligence analyst, interpreter and translator, and, once, a head of international PR for a supercar startup. With a degree in international law.
+
+My interest in programming brought me to Makers Academy, a leading developer bootcamp, which gave me a solid basis in modern software engineering practices and allowed me to start programming professionally and to be a tutor at Rails events. Subsequent commercial experience in a global bank provided valuable insights into how complex financial software systems are designed, delivered, scaled and maintained. I'm looking forward to continuing this journey.
 
 ### <a name="attributes">What I can do</a>
 
-#### I TDD
+#### Microservices in Clojure
 
-I believe that overall approach and mindset might be more important in software development than actual technological stack that you run. It is great to be skillful with your tools, but they are not much use if applied erratically. Hence **TDD** - tests first, then red-green-refactor. Makes the design much easier to scale and maintain. As Makers Academy kicks your journey off with Ruby, my most-used test tools were **RSpec** and **Capybara**. I've also done **Jasmine** and **Mocha** when using **Javascript**, and a bit of **NUnit** when trying out **C#**.
+I believe that microservice architecture is optimal for complicated systems, allowing for flexibility, resilience and scalability. **Clojure** is well suited to the task and, besides, I just happen to like it a lot.
 
-#### I absorb new tech quickly
+Tech: Clojure, Ring, Compojure, Jetty, Cranker (a reverse proxy service)
 
-12 weeks at Makers taught me to learn new things at warp pace. I'd never believed this August that in September I'd be building a 3D game reacting to sound input with **Unity** (which I've never heard about before) and **C#**. [Here's the code](https://github.com/yurizhuravel/audiodash), and [here's a playable online version](http://www.newgrounds.com/portal/view/681537).
+#### Devops and CI
 
-Earlier, It took our team a week to build an AirBnB logic model, complete with property and user databases, in unfamiliar **Node.js**, with **PostgreSQL** and **Knex**. [Here it is](https://github.com/yurizhuravel/makers_bnb).
+I worked with [Nic Ferrier](http://nic.ferrier.me.uk/), a self-described 'grizzled hacker', Lisp and Unix guru and a passionate devops advocate. Under his leadership, every dev team in HSBC GFX was responsible for testing and deploying their code to production, as well as supporting it afterwards. The ideology of delivering smallest possible incremental changes (self-tested at startup by automated change tests and automatically rolled back in case of failure) allowed the department to minimise service downtime and production incidents count, keeping the big codebase flexible and maintainable.
 
-Learning to use basic **Rails** in just a couple of days was somewhat easier by comparison, and yielded a really nice result: a tool to search user's GitHub repos for carelessly pushed Facebook secret keys. [Check it out](https://github.com/yurizhuravel/gitsnitch).
+Tech: Git, Jenkins, TeamCity, Nexus, Geneos, Splunk, Unix command line tools, HSBC proprietary devops tools (AppRunner, LibraryKeeper, AntMan, sshddd)
 
-#### I pair-program
+#### Object-oriented and functional
 
-I believe that working in pairs is more productive, as it allows to learn new things and speak about the stuff that you already know, thus reinforcing it in memory. Flying solo can be fun too, but it's better in a pair.
+**Ruby** was my first love, and, although one can write it in functional or procedural style, I grew up to be a fan of OO Ruby flavour, with Sandi Metz as a principal influencer. I tend to view **JavaScript** as an OO language too. But I really love the purely functional **Clojure** for its elegance.
 
-#### I like clean object-oriented design
+Tech: Clojure, Ruby (Rails), JavaScript (ES6, Node, jQuery), a bit of Java (Maven)
 
-**Ruby** was my first love, and Sandi Metz is god. Nuff' said.
+#### Agile
 
-#### I don't mind pressure
+A much-abused term these days, often heard in the least agile environments imaginable. But when applied properly and in a modern way, daily stand-ups with the team and product owners, continuous release cycle, regular retros and well-maintained ticketing system can do wonders for productivity.
 
-I've spent a good decade and a half in news, working in real time through scenarios that I honestly hope won't ever happen again (that was one of the reasons I left, actually: news is mostly bad news). There are not many environments out there that could out-pressurize a newsroom on full boil. Well, a Formula One race, maybe. Been there, done that, too. So, yes, bring it on.
+Tech: Jira, Trello, video conferencing tools
 
-#### I can play in a team or lead a team
+#### TDD
 
-I'm just starting my professional coding journey and am looking for a junior position. However, I believe that my past experience of working in diverse multilingual teams, as well as leading them, might come in handy for any company that I join.
+Once a firm believer in red-green-refactor and 100% test coverage, I now came to realise that it is not always possible to religiously adhere to this approach in real life with its strict time/budget constraints and pressure to ship code. However, given an opportunity, I'd always write tests. Tests are fun.
+
+Tech: clojure.test, Midje, Selenium, Jasmine, Mocha, RSpec, Capybara
+
+#### Pair programming
+
+I think that working in pairs is more productive, as it allows to learn new things and discuss concepts that you already know, thus reinforcing them in mind.
+
+#### Teamwork
+
+I have considerable experience of working in diverse multilingual teams (as well as leading them) under tight deadlines and liaising with multiple stakeholders.
+
+#### Developer tooling
+
+IntelliJ Idea (with Cursive for Clojure), command line, vi, Atom, Sublime, Spring Tool Suite
+
+##### Stuff that I touched and wouldn't mind going deeper
+
+- Unix tools, Bash scripting
+- SQL, Postgres
+- Java
+- DNS, HTTP, HTTPS
+- Authentication
+- HTML, CSS, Twitter Bootstrap, Wordpress
+
+### <a name="jobs">Where I worked</a>
+
+**HSBC Global Banking And Markets** (Nov 2016 - Sept 2017)<br>
+*Digital Transformation Software Developer*<br>
+Our team delivered an integration solution which linked Evolve, an award-winning FX platform based on microservices architecture and built under devops and agile principles, with HSBCNet - one of the most-used corporate payments applications in the world. To this end, we developed a new suite of microservices and modified existing legacy code to use them.
+
+**Makers Consultants** (Nov 2016 - present)<br>
+*Software Development Consultant*<br>
+I've been one of the first software consultants employed by Makers Academy when the company decided to branch into this line of services. I'm helping to shape the future of this operation, and I also have an opportunity to work for the educational side of the business when I'm between consultancy contracts.
+
+**BBC World Service (Russian)** (2000 - 2016 with breaks in between)    
+*Journalist / Senior Producer / Video Lead*
+
+**Celebro Media** (2014 - 2015)   
+*Head of News*
+
+**Marussia Motors/ Marussia Virgin Racing** (2011 - 2012)    
+*Head of International Communications / F1 Team Liaison*  
+
+**Muz-TV (Moscow)** (1998 - 2000)   
+*Chief News Editor*
+
+**UTV (Belfast)** (1995)   
+*PR executive*
 
 ### <a name="education">Where I studied</a>
 
@@ -57,9 +109,9 @@ I'm just starting my professional coding journey and am looking for a junior pos
 
 |  Project      | Description          | Technologies| Testing |
 | :-------------:|:-------------:|:-----:|:--:|
-| AudioDash   | A 3D game using Audio input to shape the gaming environment | Unity 3D, C#| NUnit, Unity Test Tools|
-| GitSnitch     | A search engine that finds Facebook secrets in GitHub repos. | Ruby on Rails, Octokit, OmniAuth | Rspec |
-| Tricolade     | Recreates basic AirBnB logic | Javascript, Node.js, Knex, PostgreSQL |Zombie , Mocha, Chai|
+| [AudioDash](https://github.com/yurizhuravel/audiodash)   | A 3D game reacting to audio input to modify the gaming environment <br>[Link to a playable version](http://www.newgrounds.com/portal/view/681537)| Unity 3D, C#| NUnit, Unity Test Tools|
+| [GitSnitch](https://github.com/yurizhuravel/gitsnitch)     | A search tool that finds Facebook secrets carelessly pushed to GitHub | Ruby on Rails, Octokit, OmniAuth | Rspec |
+| [MakerBnB](https://github.com/yurizhuravel/makers_bnb)     | Recreates basic AirBnB logic | Javascript, Node.js, Knex, PostgreSQL |Zombie , Mocha, Chai|
 
 #### Moscow State University for International Relations (1991 to 1998 - with a career development break)
 
@@ -74,32 +126,12 @@ I'm just starting my professional coding journey and am looking for a junior pos
 - Leadership
 - Recruitment: Fair Selection
 
-### <a name="jobs">Where I worked</a>
-
-**BBC World Service (Russian)** (2000 to 2016 with breaks in between)    
-*Journalist / Senior Producer / Video Lead*
-
-**Celebro Media** (2014 to 2015)   
-*Head of News*
-
-**Marussia Motors/ Marussia Virgin Racing** (2011 to 2012)    
-*Head of International Communications / F1 Team Liaison*  
-
-**Muz-TV (Moscow)** (1998 to 2000)   
-*Chief News Editor*
-
-**UTV (Belfast)** (1995)   
-*PR executive*
-
 ### <a name="extra">Other tech that I know</a>
 
-- Filming video and stills with ENG cameras and SLRs
-
+- Professional filming of video and stills with video cameras and SLRs
 - Video editing with Adobe Premiere, Final Cut Pro X and Quantel QEdit
-
 - Photo processing with Adobe Photoshop and Lightroom
-
-- Online news CMS systems (BBC CPS, TopCat)
+- Enterprise news and content management tools (ENPS, BBC CPS, TopCat, Jupiter)
 
 #### Languages
 
