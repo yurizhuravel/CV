@@ -1,8 +1,8 @@
 ## Yuri Zhuravel
 
-** Software developer and devops journeyman ready for his next gig **
+**Software developer and devops journeyman ready for his next gig**
 
-yuri@zhuravel.co.uk | linkedin.com/in/yurizhuravel/
+yuri@zhuravel.co.uk  |  [linkedin.com/in/yurizhuravel](https://www.linkedin.com/in/yurizhuravel/)  |  +44 755 411 8898
 
 [TL;DR](#intro) | [What I can do](#attributes) | [Where I worked](#jobs) | [Where I studied](#education) | [Other tech and languages](#extra)
 
