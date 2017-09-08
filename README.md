@@ -60,7 +60,7 @@ I have considerable experience of working in diverse multilingual teams (as well
 
 IntelliJ Idea (with Cursive for Clojure), command line, vi, Atom, Sublime, Spring Tool Suite
 
-##### Stuff that I touched and wouldn't mind going deeper
+#### Stuff that I touched and wouldn't mind going deeper
 
 - Unix tools, Bash scripting
 - SQL, Postgres
