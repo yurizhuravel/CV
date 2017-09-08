@@ -1,22 +1,19 @@
-## Yuri Zhuravel
+## <p align = "center">Yuri Zhuravel
 
-**Software developer and devops journeyman ready for his next gig**
+<p align = "center">**Software developer and devops journeyman ready for the next gig**
 
-yuri@zhuravel.co.uk  |  [linkedin.com/in/yurizhuravel](https://www.linkedin.com/in/yurizhuravel/)  |  +44 755 411 8898
+<p align = "center">yuri@zhuravel.co.uk  |  [linkedin.com/in/yurizhuravel](https://www.linkedin.com/in/yurizhuravel/)  |  +44 755 411 8898
 
-### <a name="intro">TL;DR</a>
 
 I've just finished a challenging and satisfying stretch of work at HSBC, and I am ready to continue my professional coding career in a permanent or contractor role.
 
-During this latest engagement our team of six was tasked with delivering smooth interoperability between:
-1) an award-winning FX trading platform based on microservices and continuously deployed to production in the spirit of cutting-edge devops and agile principles, and
-2) a monolithic legacy corporate payments service with a quarterly release cycle and a huge user base.  
+During this latest engagement our team of six was tasked with delivering interoperability between:<br>1) an award-winning FX trading platform based on microservices and continuously deployed to production in the spirit of cutting-edge devops and agile principles, and<br>2) a monolithic legacy corporate payments service with a quarterly release cycle.  
 
 I'm a career-changer who plunged into commercial coding rather late in life. Before that, I used to be a Formula One team member, BBC journalist and desk editor, multilingual video team lead, cameraman, photographer and editor, due diligence analyst, interpreter and translator, and, once, a head of international PR for a supercar startup. With a degree in international law.
 
 My interest in programming brought me to Makers Academy, a leading developer bootcamp, which gave me a solid basis in modern software engineering practices and allowed me to start programming professionally and to be a tutor at Rails events. Subsequent commercial experience in a global bank provided valuable insights into how complex financial software systems are designed, delivered, scaled and maintained. I'm looking forward to continuing this journey.
 
-### <a name="attributes">What I can do</a>
+### <p align = "center">What I can do</a>
 
 #### Microservices in Clojure
 
@@ -69,7 +66,7 @@ IntelliJ Idea (with Cursive for Clojure), command line, vi, Atom, Sublime, Sprin
 - Authentication
 - HTML, CSS, Twitter Bootstrap, Wordpress
 
-### <a name="jobs">Where I worked</a>
+### <p align = "center">Where I worked</a>
 
 **HSBC Global Banking And Markets** (Nov 2016 - Sept 2017)<br>
 *Digital Transformation Software Developer*<br>
@@ -94,7 +91,7 @@ I've been one of the first software consultants employed by Makers Academy when 
 **UTV (Belfast)** (1995)   
 *PR executive*
 
-### <a name="education">Where I studied</a>
+### <p align = "center">Where I studied</a>
 
 #### Makers Academy (June 2016 to September 2016)
 
@@ -126,7 +123,7 @@ I've been one of the first software consultants employed by Makers Academy when 
 - Leadership
 - Recruitment: Fair Selection
 
-### <a name="extra">Other tech that I know</a>
+### <p align = "center">Other stuff that I know</a>
 
 - Professional filming of video and stills with video cameras and SLRs
 - Video editing with Adobe Premiere, Final Cut Pro X and Quantel QEdit
