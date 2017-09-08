@@ -2,7 +2,7 @@
 
 **<p align = "center">Software developer and devops journeyman ready for the next gig**
 
-yuri@zhuravel.co.uk  |  [linkedin.com/in/yurizhuravel](https://www.linkedin.com/in/yurizhuravel/)  |  +44 755 411 8898
+<div><p align = "center">yuri@zhuravel.co.uk  |  [linkedin.com/in/yurizhuravel](https://www.linkedin.com/in/yurizhuravel/)  |  +44 755 411 8898</div>
 
 
 I've just finished a challenging and satisfying stretch of work at HSBC, and I am ready to continue my professional coding career in a permanent or contractor role.
