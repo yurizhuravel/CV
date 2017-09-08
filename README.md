@@ -4,13 +4,13 @@
 
 yuri@zhuravel.co.uk  |  [linkedin.com/in/yurizhuravel](https://www.linkedin.com/in/yurizhuravel/)  |  +44 755 411 8898
 
-[TL;DR](#intro) | [What I can do](#attributes) | [Where I worked](#jobs) | [Where I studied](#education) | [Other tech and languages](#extra)
-
 ### <a name="intro">TL;DR</a>
 
 I've just finished a challenging and satisfying stretch of work at HSBC, and I am ready to continue my professional coding career in a permanent or contractor role.
 
-During this latest engagement our team of six was tasked with delivering interoperability between an award-winning FX trading platform based on microservices and continuously deployed to production in the spirit of cutting-edge devops and agile principles, and a monolithic legacy corporate payments service with a quarterly release cycle.  
+During this latest engagement our team of six was tasked with delivering smooth interoperability between:
+1) an award-winning FX trading platform based on microservices and continuously deployed to production in the spirit of cutting-edge devops and agile principles, and
+2) a monolithic legacy corporate payments service with a quarterly release cycle and a huge user base.  
 
 I'm a career-changer who plunged into commercial coding rather late in life. Before that, I used to be a Formula One team member, BBC journalist and desk editor, multilingual video team lead, cameraman, photographer and editor, due diligence analyst, interpreter and translator, and, once, a head of international PR for a supercar startup. With a degree in international law.
 
