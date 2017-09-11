@@ -113,11 +113,11 @@ I've been one of the first software consultants employed by Makers Academy when 
 #### Moscow State University for International Relations (1991 to 1998 - with a career development break)
 
 - Law
-- Intense German and English
+- German and English
 - LLB and an additional postgrad specialist degree in International Trade Law
 - Played a solo guitar in a student band
 
-#### BBC courses
+#### BBC course certificates
 
 - Training for Trainers
 - Leadership
