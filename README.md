@@ -2,7 +2,7 @@
 
 **<p align = "center">Back-end Scala Engineer | High-load microservices | DevOps on AWS infra**
 
-<div><p align = "center"><a href="https://www.linkedin.com/in/yurizhuravel">linkedin.com/in/yurizhuravel</a> | +44 7554 118898</div>
+<div><p align = "center"><a href="https://www.linkedin.com/in/yurizhuravel">linkedin.com/in/yurizhuravel</a></div>
 
 I have eight years of enterprise experience with high-load Scala microservices on resilient, scalable and cost-effective cloud infrastructure. Now returning from a short family career break, I am ready to design, build and maintain your back-end services and CI/CD in a permanent or contractor position.
 
