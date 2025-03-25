@@ -48,7 +48,7 @@ I have considerable experience of working in and leading diverse multilingual te
 ---
 ### <p align = "center">Work experience and stack in more detail:
 
-**ITV | London, UK (Feb 2018 - Aug 2024)**<br>
+**ITV | London, UK** (Feb 2018 - Aug 2024)<br>
 *Core Engineer*
 
 **Dev side:**<br>
