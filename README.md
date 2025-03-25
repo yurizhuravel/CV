@@ -1,80 +1,96 @@
 ## <p align = "center">Yuri Zhuravel
 
-**<p align = "center">Software developer and devops journeyman ready for the next gig**
+**<p align = "center">Back-end Scala Engineer | High-load microservices | DevOps on AWS infra**
 
-<div><p align = "center"><a href="https://www.linkedin.com/in/yurizhuravel">linkedin.com/in/yurizhuravel</a></div>
+<div><p align = "center"><a href="https://www.linkedin.com/in/yurizhuravel">linkedin.com/in/yurizhuravel</a> | +44 7554 118898</div>
 
+I have eight years of enterprise experience with high-load Scala microservices on resilient, scalable and cost-effective cloud infrastructure. Now returning from a short family career break, I am ready to design, build and maintain your back-end services and CI/CD in a permanent or contractor position.
 
-I've just finished a challenging and satisfying stretch of work at HSBC, and I am ready to continue my professional coding career in a permanent or contractor role.
+In my most recent role at ITV, I worked through complete lifecycles (from initial design to final decommission) of several big projects primarily written in functional Scala. As well as creating and updating them, my particular focus was on designing a convenient and efficient CI/CD from code to prod on complex and flexibly scalable AWS infrastructure, while paying extra attention to keeping the cloud costs in check.
 
-During this latest engagement our team of six was tasked with delivering interoperability between:<br>1) an award-winning FX trading platform based on microservices and continuously deployed to production in the spirit of cutting-edge devops and agile principles, and<br>2) a monolithic legacy corporate payments service with a quarterly release cycle.  
+I'm a career-changer who plunged into commercial coding rather late in life. Before that, I used to be a Formula One team member, BBC journalist and team lead, interpreter and due diligence analyst. My interest in programming brought me to Makers Academy, a leading developer bootcamp for solid foundation in modern software engineering practices. Subsequent years of commercial experience with a top global bank and the UK's biggest commercial broadcaster gave me invaluable insights into how complex software systems are designed, delivered, scaled and maintained.
 
-I'm a career-changer who plunged into commercial coding rather late in life. Before that, I used to be a Formula One team member, BBC journalist and desk editor, multilingual video team lead, cameraman, photographer and editor, due diligence analyst, interpreter and translator, and, once, a head of international PR for a supercar startup. With a degree in international law.
+---
+### <p align = "center">What I can do:</a>
 
-My interest in programming brought me to Makers Academy, a leading developer bootcamp, which gave me a solid basis in modern software engineering practices and allowed me to start programming professionally and to be a tutor at Rails events. Subsequent commercial experience in a global bank provided valuable insights into how complex financial software systems are designed, delivered, scaled and maintained. I'm looking forward to continuing this journey.
+#### Microservices and lambdas in functional Scala
 
-### <p align = "center">What I can do</a>
+I consider microservice architecture to be a good match for complicated systems, allowing for flexibility, independent scalability and maintenance. **Scala**, with a robust JVM foundation as well as modern functional toolset, has proved to be dependable and resilient for that. It can also be successfully used in lambdas, with some limiting considerations, primarily the size - that's why lately I've started looking at Go when more lightweight and simple solution are enough. I'd also used Clojure for enterprise microservices and liked it, but my experience with it was a while back.
 
-#### Microservices in Clojure
+<b>Tech:</b> Functional Scala (Cats); Elm for frontend; Go for quick scripting and lightweight tooling needs, AWS lambdas JVM or Scala.js flavour; GraphQL APIs; Clojure (a while ago); Github Actions, Docker, Jenkins, Terraform on the CI and infra side; various DBs but mostly Postgres; RabbitMQ, SQS/SNS and Kafka messaging; logging, metrics and dashboards based on Splunk, Kibana and Grafana; Gatling for load testing etc
 
-I believe that microservice architecture is optimal for complicated systems, allowing for flexibility, resilience and scalability. **Clojure** is well suited to the task and, besides, I just happen to like it a lot.
+#### Devops and CI/CD
 
-Tech: Clojure, Ring, Compojure, Jetty, Cranker (a reverse proxy service)
+My very first commercial experience quickly showed that constantly delivering small auto-tested incremental changes is highly effective even in a very conservative and regulated banking environment with limited scope for CI change. Having realised that, I turned attention to devops practices and, in my time with ITV, I delivered two major releases of our CI/CD setup from the dev side, working with platform engineers to align our approaches and iron out wrinkles.
 
-#### Devops and CI
+<b>Tech:</b> GitHub Actions, AWS infra, Docker, Kubernetes, Jenkins, Terraform, Splunk
 
-I worked with [Nic Ferrier](http://nic.ferrier.me.uk/), a self-described 'grizzled hacker', Lisp and Unix guru and a passionate devops advocate. Under his leadership, every dev team in HSBC GFX was responsible for testing and deploying their code to production, as well as supporting it afterwards. The ideology of delivering smallest possible incremental changes (self-tested at startup by automated change tests and automatically rolled back in case of failure) allowed the department to minimise service downtime and production incidents count, keeping the big codebase flexible and maintainable.
+#### AWS cloud cost control
 
-Tech: Git, Jenkins, TeamCity, Nexus, Geneos, Splunk, Unix command line tools, HSBC proprietary devops tools (AppRunner, LibraryKeeper, AntMan, sshddd)
+A big issue for enterprise cloud users these days. At ITV, I was in a small task force dedicated to getting as much relevant data from AWS Cost Explorer API as possible, and then using it to scale and adjust our cloud utilisation to minimise resource overbooking and unnecessary costs
 
-#### Object-oriented and functional
-
-**Ruby** was my first love, and, although one can write it in functional or procedural style, I grew up to be a fan of OO Ruby flavour, with Sandi Metz as a principal influencer. I tend to view **JavaScript** as an OO language too. But I really love the purely functional **Clojure** for its elegance.
-
-Tech: Clojure, Ruby (Rails), JavaScript (ES6, Node, jQuery), a bit of Java (Maven)
+Tech: AWS Cost Explorer API, Scala and Go lambdas, Prometheus as service metrics source, output to Splunk 
 
 #### Agile
 
-A much-abused term these days, often heard in the least agile environments imaginable. But when applied properly and in a modern way, daily stand-ups with the team and product owners, continuous release cycle, regular retros and well-maintained ticketing system can do wonders for productivity.
+A much-abused term, often heard in the least agile environments imaginable. I am a big fan of it when practiced properly: daily stand-ups with the dev team and product owners, continuous release cycle, regular retros and well-maintained ticketing system do wonders for team productivity.
 
-Tech: Jira, Trello, video conferencing tools
+Tech: Kanban with Trello, Jira etc
 
 #### TDD
 
-Once a firm believer in red-green-refactor and 100% test coverage, I now came to realise that it is not always possible to religiously adhere to this approach in real life with its strict time/budget constraints and pressure to ship code. However, given an opportunity, I'd always write tests. Tests are fun.
-
-Tech: clojure.test, Midje, Selenium, Jasmine, Mocha, RSpec, Capybara
-
-#### Pair programming
-
-I think that working in pairs is more productive, as it allows to learn new things and discuss concepts that you already know, thus reinforcing them in mind.
+Once a dedicated believer in red-green-refactor and 100% test coverage, I now came to realise that it is not always possible to religiously adhere to this approach in real life with its strict time/budget constraints and pressing business needs. However, given an opportunity, I'd always write tests.
 
 #### Teamwork
 
-I have considerable experience of working in diverse multilingual teams (as well as leading them) under tight deadlines and liaising with multiple stakeholders.
+I have considerable experience of working in and leading diverse multilingual teams under tight deadlines and with multiple stakeholder interests involved.
 
-#### Developer tooling
+---
+### <p align = "center">Work experience and stack in more detail:
 
-IntelliJ Idea (with Cursive for Clojure), command line, vi, Atom, Sublime, Spring Tool Suite
+**ITV | London, UK (Feb 2018 - Aug 2024)**<br>
+*Core Engineer*
 
-#### Stuff that I touched and wouldn't mind going deeper
+**Dev side:**<br>
+* Modern functional Scala/Cats microservices driven by endpoints or listening to messages on RabbitMQ (legacy), AWS SQS/SNS (when a 3rd party doesn't do Kafka), or Kafka (preferred)
+* cron jobs, same as above but schedule-driven to minimise AWS costs, or
+* event-driven lambdas either in ScalaJS (legacy maintenance), native JVM (main bulk), and Golang (recent, and I love it for the purpose)
+* Aiven-hosted Kafka and terraform provider, with in-house Kafka management and templating (using Dhall) 
+* Primarily Postgres DBs, or Dynamo where key-value store is enough
+* Elm for basic front-end
+* Varnish for own quick caching when needed / Akamai for heavy lifting
+* REST or GraphQL APIs (writing own / integrating with 3rd parties)
+* Gatling for load testing
+* Prometheus/Kibana/Grafana for metrics
+* Splunk for usage monitoring and operational alerting
+* GitHub Actions for testing/packaging code as Docker images and delivering to AWS EKS, which is the handover point for:
 
-- Unix tools, Bash scripting
-- SQL, Postgres
-- Java
-- DNS, HTTP, HTTPS
-- Authentication
-- HTML, CSS, Twitter Bootstrap, Wordpress
 
-### <p align = "center">Where I worked</a>
+**Ops side:**<br>
+* Kubernetes with event-driven autoscaler running Docker containers on AWS infra
+* Current GHA/Jenkins CI: Docker images fetched from EKS and orchestrated by Kubernetes/Karpenter/KEDA on AWS S3. Fast, reliable up- and downscaling triggered by CPU/memory/endpoint load/kafka load/schedule and suchlike
+* Legacy Jenkins CI: JVM fat jars deployed directly onto S3 instances with an in-house blue/green deployment tool written in Scala
+* Modular management of terraform components/ AWS roles/ permissions for devs and for code
+* Making sure that all of the above is as backwards compatible as possible
+* Killing old stuff with fire, because:
 
-**HSBC Global Banking And Markets** (Nov 2016 - Sept 2017)<br>
-*Digital Transformation Software Developer*<br>
-Our team delivered an integration solution which linked Evolve, an award-winning FX platform based on microservices architecture and built under devops and agile principles, with HSBCNet - one of the most-used corporate payments applications in the world. To this end, we developed a new suite of microservices and modified existing legacy code to use them.
+**AWS Cloud Cost Optimisation:**<br>
+To keep the AWS costs in check, I wrote a usage monitoring tool running as a deployment in Kubernetes clusters and scraping CPU/memory usage data from Prometheus there, as well as costs data directly from AWS Cost Explorer
 
-**Makers Consultants** (Nov 2016 - present)<br>
+---
+
+**HSBC Global Banking And Markets | London, UK** (Nov 2016 - Oct 2017)<br>
+*Digital Transformation Software Developer*
+
+ Primary language: Clojure. Our team delivered an integration solution which linked Evolve, an award-winning FX platform based on microservices architecture and built under devops and agile principles, with HSBCNet - one of the most-used corporate payments applications in the world. To this end, we developed a new suite of microservices and modified existing legacy code to use them.
+
+---
+
+**Makers Consultants** (Nov 2016 - Jan 2018)<br>
 *Software Development Consultant*<br>
-I've been one of the first software consultants employed by Makers Academy when the company decided to branch into this line of services. I'm helping to shape the future of this operation, and I also have an opportunity to work for the educational side of the business when I'm between consultancy contracts.
+I've been one of the first software consultants employed by Makers Academy when the company decided to branch into this line of services.
+
+---
 
 **BBC World Service (Russian)** (2000 - 2016 with breaks in between)    
 *Journalist / Senior Producer / Video Lead*
@@ -102,30 +118,20 @@ I've been one of the first software consultants employed by Makers Academy when 
 - Unity 3D with C# scripting
 - RSpec, Capybara, Jasmine, Mocha, Zombie, Unity Test Tools
 
-*Projects at Makers*:
-
-|  Project      | Description          | Technologies| Testing |
-| :-------------:|:-------------:|:-----:|:--:|
-| [AudioDash](https://github.com/yurizhuravel/audiodash)   | A 3D game reacting to audio input to modify the gaming environment <br>[Link to a playable version](http://www.newgrounds.com/portal/view/681537)| Unity 3D, C#| NUnit, Unity Test Tools|
-| [GitSnitch](https://github.com/yurizhuravel/gitsnitch)     | A search tool that finds Facebook secrets carelessly pushed to GitHub | Ruby on Rails, Octokit, OmniAuth | Rspec |
-| [MakerBnB](https://github.com/yurizhuravel/makers_bnb)     | Recreates basic AirBnB logic | Javascript, Node.js, Knex, PostgreSQL |Zombie , Mocha, Chai|
-
 #### Moscow State University for International Relations (1991 to 1998 - with a career development break)
 
 - Law
 - German and English
 - LLB and an additional postgrad specialist degree in International Trade Law
-- Played a solo guitar in a student band
-
-#### BBC course certificates
+#### BBC professional certificates
 
 - Training for Trainers
 - Leadership
 - Recruitment: Fair Selection
 
-### <p align = "center">Other stuff that I know</a>
+### <p align = "center">Other stuff</a>
 
-- Professional filming of video and stills with video cameras and SLRs
+- Professional stills and video filming
 - Video editing with Adobe Premiere, Final Cut Pro X and Quantel QEdit
 - Photo processing with Adobe Photoshop and Lightroom
 - Enterprise news and content management tools (ENPS, BBC CPS, TopCat, Jupiter)
@@ -136,4 +142,4 @@ Russian, English, a bit of German and Belarussian
 
 #### And finally
 
-I like long-distance running and things on two wheels, both motorised and not
+I like drums, disc golf and things on two wheels, motorised or not
